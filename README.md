@@ -71,6 +71,8 @@ Finally, the system classifies the certificate as:
 | Matplotlib | Visualization |
 
 ---
+![image](https://github.com/user/repo/assets/123456/image.png)
+## Screenshots
 
 
 ---
