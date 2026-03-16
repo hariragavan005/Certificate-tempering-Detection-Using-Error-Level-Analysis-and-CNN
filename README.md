@@ -71,22 +71,21 @@ Finally, the system classifies the certificate as:
 | Matplotlib | Visualization |
 
 ---
-![image](https://github.com/user/repo/assets/123456/image.png)
 ## Screenshots
 
 ### Home Page
 <img src="images/home.png" width="800">
 
-### Upload Certificate
-<img src="images/uploading file.png" width="800">
+### Upload Certificate 
+<img src="images/uploading files.png" width="800">
 
 ### Detection Summary
 <img src="images/summary1.png" width="800">
 
-### Detection Summary
+### Detection Summary and Risk Score
 <img src="images/summary2.png" width="800">
 
-### Detection Summary
+### History Session Page
 <img src="images/History.png" width="800">
 
 ---
